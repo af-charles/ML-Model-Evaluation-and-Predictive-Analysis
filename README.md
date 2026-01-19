@@ -2,7 +2,7 @@
 
 This project evaluates and compares multiple regression-based machine learning models to predict honey production levels and identify key economic and environmental drivers influencing production trends. The objective is to demonstrate how data science and machine learning can support data-driven decision-making in an applied economic context.
 
-The project was completed as part of an MSc in Data Management and is framed as a predictive analytics use case rather than a purely academic exercise.
+The project was completed as part of an MSc in Data Management and is framed as a predictive analytics use case, and it is a purely academic exercise.
 
 
 **Problem Statement**
